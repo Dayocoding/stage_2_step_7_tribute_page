@@ -1,4 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Montserrat&family=Poppins&family=Raleway&family=Roboto&family=Roboto+Condensed&display=swap');
 
+#main{
+    margin-top: 0;
+    font-size: 1.25rem;
+    min-width: 22.5rem;
+    width: auto;   
+}
+
+#img-div{
+    display: block;
+    height: auto;
+    margin-top: 1rem;
+    align-self: center;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+#img-caption {
+    margin-top: 1rem;
+    font-family: 'Roboto Condensed', monospace;
+}
+
+#tribute-info{
+    font-family: 'Poppins', sans-serif;
+    color: #e3e3e3;
+}
+
+#tribute-link{
+    font-family: 'Poppins', sans-serif;
+    color: #e3e3e3;
+}
+
+#title{
+    font-size: 2.5rem;
+    margin-bottom: 0;
+    font-family: 'Roboto', monospace;
+}
+
+#tagline{
+    font-family: 'Roboto Condensed', monospace;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    color:#D4C4BE;
+    background-color: #121619;
+    text-align: center;
+}
+
+a {
+    color: #a5e229;
+    border-radius: 0.9rem;
+    text-decoration: none;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+
+#end{
     max-width: 100%;
     background-color: #121212;
     color: #94d019;
